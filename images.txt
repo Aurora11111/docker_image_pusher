@@ -1,2 +1,1 @@
-nginx
 xprobe/xinference:latest
